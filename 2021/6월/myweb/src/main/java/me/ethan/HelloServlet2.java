@@ -15,7 +15,7 @@ public class HelloServlet2 extends HttpServlet {
             throws ServletException, IOException {
         resp.setContentType("text/html; charset=UTF-8");
         PrintWriter out = resp.getWriter();
-        out.println("Hi, there!!");
+        out.println("Good morning");
         out.close();
     }
 }
