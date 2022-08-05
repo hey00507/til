@@ -13,4 +13,6 @@
 1. 비즈니스 흐름을 파악할 수 있었다.
 2. JPA 로 이루어진 Repository 단 외에 Service Controller 단의 경우는 이해할만한듯하다.
 3. 단순히 스프링을 이용한 REST API 구축외에 인프라 관련해서도 열심히 학습하자.
-4. DB 공부 꼭하자..
+4. DB 공부 꼭하자.
+5. VIM Editor 에 익숙해지자
+6. gitimoji 사용전에 git staging 먼저 꼭 하자
