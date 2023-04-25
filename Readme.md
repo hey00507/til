@@ -7,6 +7,7 @@
 ### [NextStep TDD 클린코드 with Java](https://ethankim.tistory.com/category/NextStep%20TDD%20클린코드%20with%20Java)
 1. [NextStep TDD, 클린 코드 with Java 를 시작하며](https://ethankim.tistory.com/2)
 2. [테스트 코드에 대한 나의 생각?](https://ethankim.tistory.com/3)
+3. [첫 번째 단계를 시작하다. - 몸풀기 과제와 유용한 intelliJ 설정](https://ethankim.tistory.com/6)
 
 
 
